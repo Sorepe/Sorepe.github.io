@@ -1,9 +1,9 @@
-title: Moonwalk
+title: Gim Semin
 author: Abhinav Saxena
 url: https://sorepe.github.io/ # root address of the site
 baseurl: "/" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
-  so what should I do
+  minor changes remote_theme, title, url, baseurl and need to fix CSS
 
 permalink: /:slug
 
