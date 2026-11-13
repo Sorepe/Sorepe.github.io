@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: oss-lab
     url: https://github.com/Sorepe/oss-lab
-    desc: This is an example project, configured in _data/home.yml
+    desc: My first Github Repository.
 
 old_project_entries:
 
