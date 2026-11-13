@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Moonwalk
+title: About me
 ---
 
 ## Affiliation
