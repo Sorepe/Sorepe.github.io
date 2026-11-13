@@ -10,4 +10,4 @@ These days I focus on understanding how hardware and software interact from the 
 
 I publish posts on my [notes](/blog) when I want to convey something through writing.
 
-Check out my [projects](/projects). If you would like to know more information about me, you can read [the about](/about).
+Check out my projects. If you would like to know more information about me, you can read [the about](/about).
