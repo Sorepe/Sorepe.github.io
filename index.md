@@ -2,10 +2,6 @@
 layout: home
 ---
 
----
-layout: home
----
-
 > ### Aspiring game developer and computer science student
 
 I'm Semin. I'm a computer science student aiming to become a game developer.
