@@ -1,6 +1,6 @@
 title: Gim Semin
 author: Abhinav Saxena
-url: https://Sorepe.github.io/ # root address of the site
+url: https://Sorepe.github.io # root address of the site
 baseurl: "/" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
   minor changes remote_theme, title, url, baseurl and need to fix CSS
