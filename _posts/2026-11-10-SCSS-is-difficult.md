@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SCSS is annoying"
-date: 2026-11-11 12:00:00 +0900
+date: 2026-11-10 12:00:00 +0900
 author: Gim semin
 toc: true
 summary: "SCSS is difficult"
