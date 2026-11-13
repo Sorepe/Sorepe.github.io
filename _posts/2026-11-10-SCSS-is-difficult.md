@@ -10,3 +10,7 @@ summary: "SCSS is difficult"
 ## The problem arose suddenly.
 
 An issue where SCSS styles suddenly stopped being applied—despite no changes being made—was resolved by reverting the unsuccessful attempts at other fixes.
+
+## An issue that has resurfaced
+
+The issue that had been resolved when this post was first committed has suddenly started to reappear.
